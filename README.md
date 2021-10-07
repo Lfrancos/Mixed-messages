@@ -1,22 +1,33 @@
 # Project :  MIXED MESSAGES
 > This project will help you create random inspirational frases.
 ## Table of Contents
+<!-- 1 -->
 * [General Info](#general-information)
+<!-- 2 -->
 * [Technologies Used](#technologies-used)
+<!-- 3 -->
 * [Features](#features)
-<!-- * [Screenshots](#screenshots) -->
-<!-- * [Setup](#setup) -->
-<!-- * [Usage](#usage) -->
+<!-- 7 -->
 * [Project Status](#project-status)
-<!-- * [Room for Improvement](#room-for-improvement) -->
+<!-- 9 -->
 * [Acknowledgements](#acknowledgements)
+<!-- 10 -->
 * [Contact](#contact)
+<!-- 4 -->
+<!-- * [Screenshots](#screenshots) -->
+<!-- 5 -->
+<!-- * [Setup](#setup) -->
+<!-- 6 -->
+<!-- * [Usage](#usage) -->
+<!-- 8 -->
+<!-- * [Room for Improvement](#room-for-improvement) -->
+<!-- 11 -->
 <!-- * [License](#license) -->
 
 
 ## General Information
-- This is a project that I'm creating as an exercise for <a href="https://www.codecademy.com" target="_blank">CODECADEMY</a>
-- The intention of it is to create a program that creates random frases
+- This is a project that I'm creating as an exercise for <a href="https://www.codecademy.com" target="_blank">CODECADEMY.</a>
+- The intention is to create a program that creates random frases.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -26,7 +37,7 @@
 
 
 ## Features
-- Creates random frases
+- Creates random frases.
 
 
 <!-- ## Screenshots -->
@@ -74,3 +85,4 @@ Created by <a href="http://www.lorenzofrancos.com" target="_blank">@lorenzo.fran
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+t
