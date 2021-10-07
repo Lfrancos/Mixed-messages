@@ -61,11 +61,11 @@ To do:
 
 ## Acknowledgements
 
-- This project was based on [CODECADEMY'S](https://www.codecademy.com) projects.
+- This project was based on [CODECADEMY'S](https://www.codecademy.com){:target="_blank"} projects.
 
 
 ## Contact
-Created by [@lorenzo.francos](https://www.lorenzofrancos.com) - feel free to contact me!
+Created by [@lorenzo.francos](https://www.lorenzofrancos.com){:target="_blank"} - feel free to contact me!
 
 
 <!-- Optional -->
