@@ -15,7 +15,7 @@
 
 
 ## General Information
-- This is a project that I'm creating as an exercise for Codecademy.com
+- This is a project that I'm creating as an exercise for <a href="https://www.codecademy.com" target="_blank">CODECADEMY</a>
 - The intention of it is to create a program that creates random frases
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -61,11 +61,12 @@ To do:
 
 ## Acknowledgements
 
-- This project was based on [CODECADEMY'S](https://www.codecademy.com){:target="_blank"} projects.
+- This project was based on <a href="https://www.codecademy.com" target="_blank">CODECADEMY'S</a> projects.
 
 
 ## Contact
-Created by [@lorenzo.francos](https://www.lorenzofrancos.com){:target="_blank"} - feel free to contact me!
+Created by <a href="http://www.lorenzofrancos.com" target="_blank">@lorenzo.francos</a> - feel free to contact me!
+
 
 
 <!-- Optional -->
