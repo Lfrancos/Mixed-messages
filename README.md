@@ -1,5 +1,5 @@
 # Project :  MIXED MESSAGES
-> This project will help you create randome inspirational messages.
+> This project will help you create random inspirational frases.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
