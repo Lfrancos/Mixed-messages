@@ -1,14 +1,14 @@
-# Project MIXED MESSAGES
+# Project :  MIXED MESSAGES
 > This project will help you create randome inspirational messages.
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
+<!-- * [Screenshots](#screenshots) -->
+<!-- * [Setup](#setup) -->
+<!-- * [Usage](#usage) -->
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+<!-- * [Room for Improvement](#room-for-improvement) -->
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -22,41 +22,41 @@
 
 
 ## Technologies Used
-- Tech 1 - Plain Javascript
+- Plain Javascript
 
 
 ## Features
 - Creates random frases
 
 
-## Screenshots
+<!-- ## Screenshots -->
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+<!-- ## Setup -->
+<!-- What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located? -->
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+<!-- Proceed to describe how to install / setup one's local environment / get started with the project. -->
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+<!-- ## Usage -->
+<!-- How does one go about using it? -->
+<!-- Provide various use cases and code examples here. -->
 
-`write-your-code-here`
+<!-- `write-your-code-here` -->
 
 
 ## Project Status
 Project is: _in progress_
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-Room for improvement:
+<!-- ## Room for Improvement -->
+<!-- Include areas you believe need improvement / could be improved. Also add TODOs for future development. -->
+<!-- Room for improvement:
 - Improvement to be done 1
 - Improvement to be done 2
 
 To do:
-
+ -->
 
 
 ## Acknowledgements
