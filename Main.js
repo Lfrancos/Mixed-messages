@@ -1,3 +1,4 @@
+// This is the object that will contain all the words and messages that we will use.
 const frases = {
     startFrase: ['Spend time with', 'Play with', 'Call'],
     endFrase: ['extrangers.', 'someone.', 'yourself.'],
@@ -6,7 +7,6 @@ const frases = {
 
 // this will create a random sentence with the elements inside frases
 const frase = () => {
-    // if (frases.message[Math.floor(Math.random() * 3)] === )
     let returnedFrase = `${frases.startFrase[Math.floor(Math.random() * 3)]} ${frases.endFrase[Math.floor(Math.random() * 3)]}`;
     return returnedFrase;
 }
@@ -40,8 +40,3 @@ const message = () => {
 };
 
 console.log(message());
-
-
-// console.log(fullFrase());
-// console.log(fullFrase());
-// console.log(fullFrase());
