@@ -1,5 +1,5 @@
 # Project :  MIXED MESSAGES
-> This project will help you create random inspirational frases.
+    This project will help you create random messages.
 ## Table of Contents
 <!-- 1 -->
 * [General Info](#general-information)
@@ -7,6 +7,8 @@
 * [Technologies Used](#technologies-used)
 <!-- 3 -->
 * [Features](#features)
+<!-- 6 -->
+* [Usage](#usage)
 <!-- 7 -->
 * [Project Status](#project-status)
 <!-- 9 -->
@@ -17,8 +19,6 @@
 <!-- * [Screenshots](#screenshots) -->
 <!-- 5 -->
 <!-- * [Setup](#setup) -->
-<!-- 6 -->
-<!-- * [Usage](#usage) -->
 <!-- 8 -->
 <!-- * [Room for Improvement](#room-for-improvement) -->
 <!-- 11 -->
@@ -27,17 +27,17 @@
 
 ## General Information
 - This is a project that I'm creating as an exercise for <a href="https://www.codecademy.com" target="_blank">CODECADEMY.</a>
-- The intention is to create a program that creates random frases.
+- The intention is to create a program that creates random messages.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Plain Javascript
+- Plain JavaScript
 
 
 ## Features
-- Creates random frases.
+- Creates random messages.
 
 
 <!-- ## Screenshots -->
@@ -50,24 +50,24 @@
 <!-- Proceed to describe how to install / setup one's local environment / get started with the project. -->
 
 
-<!-- ## Usage -->
+## Usage
 <!-- How does one go about using it? -->
 <!-- Provide various use cases and code examples here. -->
-
+You only need to run the JavaScript file.
 <!-- `write-your-code-here` -->
 
 
 ## Project Status
-Project is: _in progress_
+Project is: _Complete_
 
-<!-- ## Room for Improvement -->
+## Room for Improvement
 <!-- Include areas you believe need improvement / could be improved. Also add TODOs for future development. -->
-<!-- Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+<!-- Room for improvement:  -->
+    This is the first JavaScript project that I do, and I'm sure the code is not the most efficient one. As I progress I need to figure out what is the best way to write this code.
+<!-- - Improvement to be done 2 -->
 
-To do:
- -->
+<!-- To do: -->
+
 
 
 ## Acknowledgements
