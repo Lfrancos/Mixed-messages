@@ -63,7 +63,8 @@ Project is: _Complete_
 ## Room for Improvement
 <!-- Include areas you believe need improvement / could be improved. Also add TODOs for future development. -->
 <!-- Room for improvement:  -->
-    This is the first JavaScript project that I do, and I'm sure the code is not the most efficient one. As I progress I need to figure out what is the best way to write this code.
+    This is the first JavaScript project that I do, and I'm sure the code is not the most efficient one.
+    As I progress I need to figure out what is the best way to write this code.
 <!-- - Improvement to be done 2 -->
 
 <!-- To do: -->
