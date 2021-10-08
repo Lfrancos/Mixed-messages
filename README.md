@@ -11,6 +11,8 @@
 * [Usage](#usage)
 <!-- 7 -->
 * [Project Status](#project-status)
+<!-- 8 -->
+* [Room for Improvement](#room-for-improvement)
 <!-- 9 -->
 * [Acknowledgements](#acknowledgements)
 <!-- 10 -->
@@ -19,8 +21,6 @@
 <!-- * [Screenshots](#screenshots) -->
 <!-- 5 -->
 <!-- * [Setup](#setup) -->
-<!-- 8 -->
-<!-- * [Room for Improvement](#room-for-improvement) -->
 <!-- 11 -->
 <!-- * [License](#license) -->
 
